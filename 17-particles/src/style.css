@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    /* cursor: url("../static/icons8-cursor-64.png"), auto; */
+    
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
