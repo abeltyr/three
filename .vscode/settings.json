@@ -1,0 +1,13 @@
+{
+    "csharp.referencesCodeLens.enabled": false,
+    "csharp.showOmnisharpLogOnError": false,
+    "csharp.format.enable": false,
+    "csharp.semanticHighlighting.enabled": false,
+    "omnisharp.useEditorFormattingSettings": false,
+    "omnisharp.enableEditorConfigSupport": false,
+    "csharp.suppressHiddenDiagnostics": false,
+    "csharp.testsCodeLens.enabled": false,
+    "omnisharp.autoStart": false,
+    "csharpextensions.useThisForCtorAssignments": false,
+    "csharpextensions.reFormatAfterChange": false
+}

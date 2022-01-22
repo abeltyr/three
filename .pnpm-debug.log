@@ -1,1 +1,23 @@
-{}
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: dev",
+      "code": "ENOENT",
+      "stack": "Error: not found: dev\n    at getNotFoundError (/Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:41493:51)\n    at Function.whichSync [as sync] (/Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:41570:13)\n    at getCommandAbsolutePathSync (/Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:43135:44)\n    at default_1 (/Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:43144:32)\n    at /Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:176351:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "/Users/AV",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: dev",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: dev\n    at getNotFoundError (/Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:41493:51)\n    at Function.whichSync [as sync] (/Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:41570:13)\n    at getCommandAbsolutePathSync (/Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:43135:44)\n    at default_1 (/Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:43144:32)\n    at /Users/AV/.nvm/versions/node/v14.17.3/pnpm-global/5/node_modules/.pnpm/pnpm@6.27.1/node_modules/pnpm/dist/pnpm.cjs:176351:39"
+    }
+  }
+}
