@@ -9,5 +9,6 @@
     "csharp.testsCodeLens.enabled": false,
     "omnisharp.autoStart": false,
     "csharpextensions.useThisForCtorAssignments": false,
-    "csharpextensions.reFormatAfterChange": false
+    "csharpextensions.reFormatAfterChange": false,
+    "razor.format.enable": false
 }
